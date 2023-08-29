@@ -1,0 +1,5 @@
+.env
+Output
+.chatgpt_cache.json
+Scripts/gpt/api.py
+Scripts/leiapix/cookies.txt
